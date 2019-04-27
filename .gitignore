@@ -1,0 +1,14 @@
+
+# others
+
+# temporary files for IDE
+
+.vscode/
+.idea/
+
+# temporary files on Windows
+
+*.o
+*.exe
+
+# temporary files on Linux
